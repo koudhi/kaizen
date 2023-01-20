@@ -1,0 +1,23 @@
+
+z
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "agencia".(ÏƒéÜøÿÿÿÿ
+z
+java:S1488("_Immediately return this expression instead of assigning it to the temporary variable "agencia".(ÏƒéÜøÿÿÿÿ
+s
+java:S14884"]Immediately return this expression instead of assigning it to the temporary variable "saldo".(Ï¸á
+0
+java:S1220""Move this file to a named package.
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¶—·
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ùı÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©šƒ™üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»Úİû
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ö­Ä½
+P	java:S125&"<This block of commented-out lines of code should be removed.(õèçY
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(»Úİû
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÑïÒøÿÿÿÿ
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(šä“áúÿÿÿÿ8ËŒ”§Ü0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(÷õëûÿÿÿÿ8ËŒ”§Ü0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(•áºû8ÎŒ”§Ü0
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(÷õëûÿÿÿÿ8ÏŒ”§Ü0
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(á¢ìûÿÿÿÿ8†Ó•§Ü0
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(Ùæñìùÿÿÿÿ8ˆÓ•§Ü0

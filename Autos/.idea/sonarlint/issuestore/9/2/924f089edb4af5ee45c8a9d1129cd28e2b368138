@@ -1,0 +1,17 @@
+
+0
+java:S1220""Move this file to a named package.
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+N
+java:S1854"9Remove this useless assignment to local variable "valor".(ð·âZ
+T
+java:S1854"9Remove this useless assignment to local variable "marca".(üÅ¦®ýÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "modelo".(úÂè©
+A
+java:S1481"+Remove this unused "modelo" local variable.(úÂè©
+E
+java:S1481"*Remove this unused "marca" local variable.(üÅ¦®ýÿÿÿÿ
+?
+java:S1481"*Remove this unused "valor" local variable.(ð·âZ
