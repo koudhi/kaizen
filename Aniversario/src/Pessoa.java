@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 import java.time.Period;
+import java.time.format.DateTimeFormatter;
 import java.util.Date;
 import java.util.Scanner;
 
@@ -85,6 +86,7 @@ public class Pessoa {
             readData(input);
         }
         try {
+            System.out.println(LocalDate.parse("2007-12-03", DateTimeFormatter.ofPattern("yyyy-MM-dd")));
             data = LocalDate.of(ano,mes,dia);
             return data;
         }catch (Exception e){
